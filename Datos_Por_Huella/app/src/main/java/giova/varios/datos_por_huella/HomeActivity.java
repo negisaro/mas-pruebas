@@ -14,3 +14,7 @@ public class HomeActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
     }
 }
+
+{
+	else 
+}
