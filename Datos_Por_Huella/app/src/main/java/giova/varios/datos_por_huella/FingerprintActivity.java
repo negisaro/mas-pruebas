@@ -36,6 +36,7 @@ public class FingerprintActivity extends AppCompatActivity {
 
 
         textView = (TextView) findViewById(R.id.errorText);
+        akjdhajkuiradk
 
 
         // Check whether the device has a Fingerprint sensor.
